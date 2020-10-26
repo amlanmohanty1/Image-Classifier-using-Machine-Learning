@@ -6,8 +6,10 @@ The following steps were followed to build the classification model to different
    1. Data Gathering: The data was gathered using Bing Image Downloader
     
    2. Data Preprocessing: The data was preprocessed by-
-                                          2.1. Scaling down the images to a particular size.
-                                          2.2. Flattening the images.
+                                       
+         2.1. Scaling down the images to a particular size.
+                                       
+         2.2. Flattening the images.
     
    3. Support Vector Machine (SVM) algorithm was implemented for classification of the images.
     
