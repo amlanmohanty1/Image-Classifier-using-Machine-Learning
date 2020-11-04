@@ -15,7 +15,7 @@ The following steps were followed to build the classification model to different
     
    4. GridSearchCV was used to find the best parameters.
     
-   5. The model was evaluated using Confusion Matrix and classification report and was found to be 93% accurate.
+   5. The model was evaluated using Confusion Matrix and Accuracy Score and was found to be 93% accurate.
     
     
 Finally, the user is asked to feed the url link of new images for the pupose of predicting if the images pertain to apple or lemon.
