@@ -2,5 +2,5 @@ numpy
 pandas
 streamlit
 sklearn
-skimage
+scikit-image
 
