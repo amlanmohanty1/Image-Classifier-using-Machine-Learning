@@ -19,3 +19,7 @@ The following steps were followed to build the classification model to different
     
     
 Finally, the user is asked to feed the url link of new images for the pupose of predicting if the images pertain to apple or lemon.
+
+Here's the link to the web page:
+
+# https://imag-classifier.herokuapp.com/
