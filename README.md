@@ -1,4 +1,6 @@
 # Machine Learning Mini Project
+![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+
 Mini Project on Image Classification using Machine Learning
 
 The following steps were followed to build the classification model to differentiate between the images of bikes and cars:
