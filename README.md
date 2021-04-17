@@ -1,5 +1,7 @@
-# Machine Learning Mini Project
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+
+# Machine Learning Mini Project
+
 
 Mini Project on Image Classification using Machine Learning
 
